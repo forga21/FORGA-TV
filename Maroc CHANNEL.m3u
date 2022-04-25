@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AR: M24 MAROC
+http://dmtn.tv:8080/gen-pro-5988487/d3BBjYAp4M/99218.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AR: 2M Maroc
+http://dmtn.tv:8080/gen-pro-5988487/d3BBjYAp4M/2999.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AR: Télé Maroc
+http://dmtn.tv:8080/gen-pro-5988487/d3BBjYAp4M/28909.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AR: Tele Maroc FHD
+http://dmtn.tv:8080/gen-pro-5988487/d3BBjYAp4M/47470.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARRABIA (AR HEVC) MAROC
+http://dmtn.tv:8080/gen-pro-5988487/d3BBjYAp4M/113010.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARRIADIYYA (AR HEVC) MAROC
+http://dmtn.tv:8080/gen-pro-5988487/d3BBjYAp4M/113011.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LAAYOUN (AR HEVC) MAROC
+http://dmtn.tv:8080/gen-pro-5988487/d3BBjYAp4M/113013.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AR: 2M Maroc
+http://dmtn.tv:8080/gen-pro-5988487/d3BBjYAp4M/2999.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AR: Télé Maroc
+http://dmtn.tv:8080/gen-pro-5988487/d3BBjYAp4M/28909.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AR: Tele Maroc FHD
+http://dmtn.tv:8080/gen-pro-5988487/d3BBjYAp4M/47470.m3u8
+
